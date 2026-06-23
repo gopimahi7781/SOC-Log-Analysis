@@ -1,0 +1,8 @@
+INFO User login successful from 192.168.1.10
+INFO User login successful from 192.168.1.15
+WARNING Failed login attempt from 192.168.1.20
+ERROR Failed login attempt from 192.168.1.20
+INFO File accessed by user admin
+WARNING Failed login attempt from 192.168.1.25
+ERROR Multiple failed login attempts detected
+INFO User logout successful
