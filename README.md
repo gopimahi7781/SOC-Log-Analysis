@@ -121,3 +121,16 @@ Top Suspicious IP:
 **Gopi Krishna Reddy**
 
 Cyber Security Enthusiast | SOC Analyst Aspirant
+## Screenshots
+
+### Security Logs
+![Security Logs](screenshots/security_logs.png)
+
+### Analyze Script
+![Analyze Script](screenshots/analyze_logs.png)
+
+### Analysis Report
+![Analysis Report](screenshots/analysis_report.png)
+
+### SOC Analysis Output
+![SOC Analysis Output](screenshots/soc_analysis_output.png)
