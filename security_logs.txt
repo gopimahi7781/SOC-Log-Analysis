@@ -1,8 +1,66 @@
 INFO User login successful from 192.168.1.10
+INFO User login successful from 192.168.1.12
 INFO User login successful from 192.168.1.15
+INFO User logout successful
+INFO Password changed for user Rahul
+INFO File accessed by admin
+INFO User login successful from 192.168.1.18
 WARNING Failed login attempt from 192.168.1.20
 ERROR Failed login attempt from 192.168.1.20
-INFO File accessed by user admin
-WARNING Failed login attempt from 192.168.1.25
+WARNING Failed login attempt from 192.168.1.20
 ERROR Multiple failed login attempts detected
+INFO User login successful from 192.168.1.22
+WARNING USB device connected
+INFO User login successful from 192.168.1.25
+ERROR Privilege escalation attempt detected
+INFO Administrator login successful
+WARNING Failed login attempt from 192.168.1.30
+INFO File modified by admin
 INFO User logout successful
+INFO Scheduled backup completed
+INFO User login successful from 192.168.1.35
+INFO User login successful from 192.168.1.40
+WARNING Failed login attempt from 192.168.1.20
+ERROR Failed login attempt from 192.168.1.20
+INFO User login successful from 192.168.1.60
+INFO User login successful from 192.168.1.61
+WARNING Failed login attempt from 192.168.1.20
+ERROR Failed login attempt from 192.168.1.20
+INFO User logout successful
+INFO User login successful from 192.168.1.65
+WARNING Failed login attempt from 192.168.1.70
+ERROR Account locked due to multiple failed logins
+INFO User login successful from 192.168.1.72
+INFO Security scan completed
+WARNING Antivirus signature outdated
+INFO Antivirus database updated
+ERROR Suspicious executable detected
+INFO Quarantine completed
+INFO User login successful from 192.168.1.75
+WARNING Failed login attempt from 192.168.1.80
+INFO Administrator reviewed security logs
+ERROR Unauthorized file access detected
+INFO User logout successful
+INFO System reboot completed
+WARNING High CPU usage detected
+INFO Scheduled backup completed
+ERROR Multiple authentication failures detected
+INFO Security policy applied
+INFO User login successful from 192.168.1.90
+INFO Log monitoring completed
+INFO User logout successful
+INFO File accessed by user John
+WARNING Failed login attempt from 192.168.1.45
+INFO User login successful from 192.168.1.46
+ERROR Unauthorized access attempt detected
+INFO Password reset completed
+INFO User login successful from 192.168.1.50
+WARNING Multiple failed login attempts from 192.168.1.25
+INFO Administrator accessed system logs
+ERROR Account lockout triggered for user Rahul
+INFO User login successful from 192.168.1.55
+WARNING Firewall blocked incoming connection
+INFO Scheduled system scan completed
+ERROR Malware signature detected
+INFO User logout successful
+INFO Security policy updated

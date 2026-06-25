@@ -2,20 +2,26 @@ SOC LOG ANALYSIS REPORT
 
 Project: SOC Log Analysis using Kali Linux
 
-Findings:
-- Total Failed Login Attempts: 3
-- Suspicious IP: 192.168.1.20
-- ERROR Events: 2
-- WARNING Events: 2
+Summary:
+----------------------------------------
+Total Logs: 66
+INFO Logs: 41
+WARNING Logs: 13
+ERROR Logs: 12
+Failed Login Attempts: 14
+
+Top Suspicious IP:
+192.168.1.20 (7 failed login attempts)
 
 Analysis:
-The IP address 192.168.1.20 generated multiple failed login attempts and is considered suspicious. Continuous monitoring is recommended to detect potential brute-force attacks.
+The log analysis identified multiple failed login attempts from IP address 192.168.1.20, making it the most suspicious source. Error and warning events indicate possible brute-force activity, unauthorized access attempts, privilege escalation, malware detection, and account lockouts. These events should be investigated further by the SOC team.
 
 Tools Used:
 - Kali Linux
 - grep
 - wc
 - nano
+- Bash Shell
 
 Conclusion:
-Basic log analysis was performed to identify failed login attempts, suspicious IP addresses, and security events.
+Successfully analyzed 66 security log entries, identified suspicious IP addresses, counted security events, and generated a summarized SOC incident report using Linux commands and Bash scripting.
