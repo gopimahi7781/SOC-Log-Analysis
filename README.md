@@ -1,4 +1,4 @@
-# SOC Log Analysis & Incident Detection
+# SOC Log Analysis and Incident Detection
 
 ## Project Overview
 
